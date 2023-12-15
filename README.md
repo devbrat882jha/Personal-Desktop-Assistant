@@ -1,4 +1,4 @@
-# Personal-Desktop-Assitant
+# Personal-Desktop-Assistant
 PROJECT DESCRIPTION 
 <br>
 Modules used -speech_recognition,os, win32com.client ,webbrowser,requests
